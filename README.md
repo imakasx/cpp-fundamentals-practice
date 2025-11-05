@@ -60,3 +60,4 @@
 |-------|-------|-----------|
 |41| Find Largest Element in an Array| LargestN.cpp |
 |42| Find Smallest Element in an Array | SmallestN.cpp |
+|43| Calculate the Sum of Array Elements | SumofArray.cpp |
