@@ -53,3 +53,9 @@
 |38| Write a Function to Count the Digits in a Number| CountDigit.cpp |
 |39| Write a Function to Check Palindrome String | PalindromeString.cpp |
 |40| Write a Function to Calculate nCr (Combination)| nCr.cpp |
+
+# Section 4:Arrays and Strings (Questions 41-60)
+
+| Sr.No | Topic | File Name |
+|-------|-------|-----------|
+|41| Find Largest Element in an Array| LargestN.cpp |
