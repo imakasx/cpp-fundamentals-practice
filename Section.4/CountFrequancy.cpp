@@ -1,3 +1,5 @@
+//count the Frequency........
+//Q46
 #include<iostream>
 using namespace std;
 int main(){
