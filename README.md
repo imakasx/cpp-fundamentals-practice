@@ -62,3 +62,4 @@
 |42| Find Smallest Element in an Array | SmallestN.cpp |
 |43| Calculate the Sum of Array Elements | SumofArray.cpp |
 |44| Reverse an Array | ReverseArray.cpp |
+|45| Find Second Largest Element in an Array | SecondLargest.cpp|
