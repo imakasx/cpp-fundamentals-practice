@@ -64,3 +64,4 @@
 |44| Reverse an Array | ReverseArray.cpp |
 |45| Find Second Largest Element in an Array | SecondLargest.cpp|
 |46| Count the Frequency of Each Element in an Array| CountFrequancy.cpp |
+|47| Sort an Array in Ascending Order | AcendingOrder.cpp |
