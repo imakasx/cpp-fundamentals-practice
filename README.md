@@ -66,3 +66,4 @@
 |46| Count the Frequency of Each Element in an Array| CountFrequancy.cpp |
 |47| Sort an Array in Ascending Order | AcendingOrder.cpp |
 |48| Sort an Array in Descending Order | DecendingOrder.cpp |
+|49| Find the Sum of Two Matrices | SumofMatrices.cpp |
