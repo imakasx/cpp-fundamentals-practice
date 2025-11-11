@@ -67,3 +67,4 @@
 |47| Sort an Array in Ascending Order | AcendingOrder.cpp |
 |48| Sort an Array in Descending Order | DecendingOrder.cpp |
 |49| Find the Sum of Two Matrices | SumofMatrices.cpp |
+|50| Transpose of a Matrix | TransposhMatrix.cpp |
