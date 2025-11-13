@@ -68,3 +68,4 @@
 |48| Sort an Array in Descending Order | DecendingOrder.cpp |
 |49| Find the Sum of Two Matrices | SumofMatrices.cpp |
 |50| Transpose of a Matrix | TransposhMatrix.cpp |
+|51| Find Maximum Product Subarray | MaxSubProduct.cpp |
