@@ -70,3 +70,4 @@
 |50| Transpose of a Matrix | TransposhMatrix.cpp |
 |51| Find Maximum Product Subarray | MaxSubProduct.cpp |
 |52| Search an Element in an Array | SearchArray.cpp |
+|53| Check if Two Strings are Anagrams | anagramsStr.cpp |
