@@ -74,4 +74,5 @@
 |54| Count Vowels and Consonants in a String | countVowel.cpp |
 |55| Reverse a String | revStr.cpp |
 |56| Check if a String is a Palindrome | palindromeStr.cpp | 
-|57|Find Length of a String Without Using strlen | strlen.cpp |
+|57| Find Length of a String Without Using strlen | strlen.cpp |
+|58| Remove All Duplicates from a String | dupliStr.cpp |
